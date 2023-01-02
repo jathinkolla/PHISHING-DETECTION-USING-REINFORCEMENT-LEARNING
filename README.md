@@ -1,12 +1,17 @@
 # PHISHING-DETECTION-USING-REINFORCEMENT-LEARNING
 
-#Implementation Details
-
+# Implementation Details
 Implemented using Visual Studio Code
 
-Main dependencies:
-Numpy
+# Main dependencie:
 Tensorflow
-Keras
-##Set Up
+
+# Algorithms And Exploration Strategies:
+Monte Carlo Learning
+Q-Learning
+Deep Q-learning
+ε-greedy
+SoftMax
+
+# Set Up
 To start the simulation, execute python simulation.py.
